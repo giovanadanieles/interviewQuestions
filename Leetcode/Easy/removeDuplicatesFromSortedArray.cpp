@@ -1,6 +1,8 @@
 /*
 Runtime: 16 ms, faster than 85.44% of C++ online submissions for Remove Duplicates from Sorted Array.
 Memory Usage: 14.2 MB, less than 99.99% of C++ online submissions for Remove Duplicates from Sorted Array.
+
+Best Solution: v.erase(unique(v.begin(), v.end()), v.end())
 */
 
 class Solution {
