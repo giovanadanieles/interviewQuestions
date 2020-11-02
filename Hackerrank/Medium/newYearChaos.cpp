@@ -1,4 +1,4 @@
-// Complexity: O(n log n)
+// Complexity: O(nlogn)
 void minimumBribes(vector<int> q) {
     int dist, ans = 0;
 
