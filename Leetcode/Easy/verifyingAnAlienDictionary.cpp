@@ -1,6 +1,6 @@
 // Version 1: 
-              runtime beats 34.73% of cpp submissions
-              memory usage beats 22.81% of cpp submissions
+//              runtime beats 34.73% of cpp submissions
+//              memory usage beats 22.81% of cpp submissions
 
 bool isAlienSorted(vector<string>& words, string order) {
         unordered_map<char, int> alphabet;
@@ -22,8 +22,8 @@ bool isAlienSorted(vector<string>& words, string order) {
     
     
 // Version 2: 
-              runtime beats 34.73% of cpp submissions
-              memory usage beats 43.84% of cpp submissions
+//              runtime beats 34.73% of cpp submissions
+//              memory usage beats 43.84% of cpp submissions
 
 bool isAlienSorted(vector<string>& words, string order) {
         unordered_map<char, int> alphabet;
